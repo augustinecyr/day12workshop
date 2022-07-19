@@ -19,7 +19,7 @@ public class CartController {
         List<Item> cartItems = cs.getShoppingItems();
         model.addAttribute("cart", cartItems);
         
-        return "cart";
+        return "cart"; // sensitive
     }
 
   
