@@ -15,14 +15,25 @@ public class CartService {
             listItems.add(itm);
 
             itm = new Item();
-            itm.setItemName("Wallet");
-            itm.setQuantity(5);
+            itm.setItemName("Prada Wallet");
+            itm.setQuantity(3);
             listItems.add(itm);
 
             itm = new Item();
             itm.setItemName("Laptop");
             itm.setQuantity(1);
             listItems.add(itm);
+
+            itm = new Item();
+            itm.setItemName("Shoe");
+            itm.setQuantity(1);
+            listItems.add(itm);
+
+            itm = new Item();
+            itm.setItemName("Prada Glasses");
+            itm.setQuantity(2);
+            listItems.add(itm);
+
 
             return listItems;
 

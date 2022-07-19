@@ -21,3 +21,7 @@ Importance of writing code on a development branch
 2. Creating a service class - CartService.java (contains a list of sample data input)
 3. Creating a controller for the Cart - CartController.java
 4. Creating a view - cart.html 
+
+#### PathVariable & StringQuery
+1. Utilising the @PathVariable 
+2. Differences between StringQuery and PathVariable
