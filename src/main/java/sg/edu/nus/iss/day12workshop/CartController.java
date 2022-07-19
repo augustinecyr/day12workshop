@@ -35,7 +35,7 @@ public String filteredCart(
            filteredItems.add(s);
        } // itemname will equals to input on path , case-sensitive
    }
-    model.addAttribute("cart", filteredItems); // get from filtereditems
+    model.addAttribute("cart", filteredItems); // get from filteredItems not cartItems
 
     return "cart";
 

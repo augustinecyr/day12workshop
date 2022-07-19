@@ -23,5 +23,10 @@ Importance of writing code on a development branch
 4. Creating a view - cart.html 
 
 #### PathVariable & StringQuery
-1. Utilising the @PathVariable 
-2. Differences between StringQuery and PathVariable
+1. Utilising the @PathVariable (WeatherController.java)
+2. Differences between StringQuery and PathVariable 
+3. Usage of Postman to test GET request.
+
+#### Number Generator Exercise
+1. Files created (NumberController.java , number.html)
+2. Using POST on the form method and define a range of values to generate (number.html)
