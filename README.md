@@ -17,5 +17,6 @@ Importance of writing code on a development branch
 3. Writing if-unless statement in Thymeleaf
 
 #### Thymeleaf - Iteration
-1. Building a model - Item.java 
+1. Building a model - Item.java (a sample data structure)
 2. Creating a service class - CartService.java (contains a list of sample data)
+3. Creating a controller for the Cart - CartController.java
