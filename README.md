@@ -13,6 +13,9 @@ Importance of writing code on a development branch
 #### Creating a Thymeleaf Page.
 
 1. Visual Code > Java Projects under EXPLORER > src/main/java > + > input the class name
+2. Getting current time by using model.addAttribute and display it on indexresource.html
+3. Writing if-unless statement in Thymeleaf
 
-
-
+#### Thymeleaf - Iteration
+1. Building a model - Item.java 
+2. Creating a service class - CartService.java (contains a list of sample data)
