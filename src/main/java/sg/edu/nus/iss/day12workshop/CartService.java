@@ -11,16 +11,18 @@ public class CartService {
 
             Item itm = new Item();
             itm.setItemName("Backpack");
-            itm.setQuantity('2');
+            itm.setQuantity(2); // remember integer type has no quotes.
             listItems.add(itm);
 
+            itm = new Item();
             itm.setItemName("Wallet");
-            itm.setQuantity('5');
+            itm.setQuantity(5);
             listItems.add(itm);
 
             itm = new Item();
             itm.setItemName("Laptop");
-            itm.setQuantity('1');
+            itm.setQuantity(1);
+            listItems.add(itm);
 
             return listItems;
 
