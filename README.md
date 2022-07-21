@@ -24,7 +24,7 @@ Importance of writing code on a development branch
 
 #### PathVariable & StringQuery
 1. Utilising the @PathVariable (WeatherController.java)
-2. Differences between StringQuery and PathVariable 
+2. Differences between StringQuery and PathVariable.
 3. Usage of Postman to test GET request.
 
 #### Number Generator Exercise
